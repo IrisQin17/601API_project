@@ -31,7 +31,7 @@ As a counter sales, I can get some attributes of products and do suitable introd
 As a quality supervisor, I can get the feedback directly from COSMATTER, and find some potential quality issues.
 
 ## Architecture
-![architecture](https://github.com/mullaa/EC601_miniproject/blob/master/Architecture.png)
+![architecture](Architecture.png)
 
 ## Instruction
 The main file is COSMATTER.py, and make sure you have extract_tweet.py, sentiment_text_analysis.py and MyFirstProject.json in the same folder with the main file.
